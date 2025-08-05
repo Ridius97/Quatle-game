@@ -1,0 +1,7 @@
+# Αγνόησε αυτά τα αρχεία/φακέλους
+builds/
+*.log
+*.tmp
+.DS_Store
+__pycache__/
+node_modules/
